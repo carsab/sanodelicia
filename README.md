@@ -1,2 +1,2 @@
 # sanodelicia
-Tieneda online de alimentos 
+Tienda online de alimentos 
